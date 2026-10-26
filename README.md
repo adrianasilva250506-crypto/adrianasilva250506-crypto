@@ -90,3 +90,7 @@ Gosto de entender como as coisas funcionam por dentro e de ver uma ideia virar a
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4f9a,100:0d0d0d&height=120&section=footer" />
 </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adrianasilva250506-crypto/adrianasilva250506-crypto/output/github-snake-dark.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/adrianasilva250506-crypto/adrianasilva250506-crypto/output/github-snake.svg" />
+</picture>
