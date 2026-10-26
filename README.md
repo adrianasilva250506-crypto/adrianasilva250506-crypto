@@ -63,18 +63,12 @@ Gosto de entender como as coisas funcionam por dentro e de ver uma ideia virar a
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adrianasilva250506-crypto&bg_color=0d0d0d&color=ffffff&line=ff4f9a&point=ffffff&area=true&area_color=ff4f9a&hide_border=true" />
 </p>
 
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adrianasilva250506-crypto&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
 ## 🐍 Snake
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adrianasilva250506-crypto/adrianasilva250506-crypto/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/adrianasilva250506-crypto/adrianasilva250506-crypto/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adrianasilva250506-crypto/adrianasilva250506-crypto/output/github-snake-dark.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/adrianasilva250506-crypto/adrianasilva250506-crypto/output/github-snake.svg" />
   </picture>
 </p>
 
@@ -90,7 +84,3 @@ Gosto de entender como as coisas funcionam por dentro e de ver uma ideia virar a
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4f9a,100:0d0d0d&height=120&section=footer" />
 </p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adrianasilva250506-crypto/adrianasilva250506-crypto/output/github-snake-dark.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/adrianasilva250506-crypto/adrianasilva250506-crypto/output/github-snake.svg" />
-</picture>
