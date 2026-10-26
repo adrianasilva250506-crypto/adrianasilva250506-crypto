@@ -60,7 +60,9 @@ Gosto de entender como as coisas funcionam por dentro e de ver uma ideia virar a
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adrianasilva250506-crypto&bg_color=0d0d0d&color=ffffff&line=ff4f9a&point=ffffff&area=true&area_color=ff4f9a&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?...
+</p><p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?...
 </p>
 
 ## 🐍 Snake
